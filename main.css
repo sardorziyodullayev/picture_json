@@ -1,0 +1,21 @@
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#btn {
+	width: 80px;
+	padding: 10px;
+	font-size: 16px;
+	margin: 20px;
+	background-color: aqua;
+   color: #fff;
+	border-radius: 5px;
+	border: none;
+}
+
+.photos {
+	width: 120px;
+	height: 100px;
+	padding: 2px;
+}
